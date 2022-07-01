@@ -14,4 +14,4 @@
 
 ## Demo
 
-![appDemo](assets/notes_demo.gif)
+![appDemo](notes_demo.gif)
